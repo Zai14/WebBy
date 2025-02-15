@@ -34,15 +34,15 @@ medicine_name:uses:side_effects
 Paracetamol:Pain relief:Nausea, drowsiness
 ```
 ## Usage
-**1) Run the script:**
+**1) Run the script:**   
 ```bash
 python WebBy.py
 ```
-**2) Input the Medicine Name:**
+**2) Input the Medicine Name:**   
 -Enter the name of the medicine you want information on.
-**3) Choose the Data Source:**
+**3) Choose the Data Source:**   
 Enter text to search from WebBy.txt, or website to scrape information from a website.
-**4) View Results:**
+**4) View Results:**     
 -Displays the uses and side effects of the medicine from the chosen data source.
 ## Technologies Used
 **1) Python:** Main programming language used for building the application.
