@@ -15,8 +15,8 @@ The **WebBy** web scraper is designed to retrieve information about medicines, i
 To run this project locally, follow the steps below:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Zai14/WebBy.git
+```bash
+ git clone https://github.com/Zai14/WebBy.git
 2. Navigate to the project directory:
   ```bash
 cd WebBy
@@ -70,4 +70,4 @@ Expand error handling to improve system reliability.
 ## License
 This project is licensed under the MIT License.
 ## Contact
-For more information, please contact Zai14 through GitHub at Zai14.
+For more information, please contact Zai14 through GitHub at Zai14(https://github.com/Zai14).
