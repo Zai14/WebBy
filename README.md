@@ -38,20 +38,22 @@ Paracetamol:Pain relief:Nausea, drowsiness
 ```bash
 python WebBy.py
 ```
-**2) Input the Medicine Name:**     
+**2) Input the Medicine Name:** 
+```
 -Enter the name of the medicine you want information on.
+```
 **3) Choose the Data Source:**     
-Enter text to search from WebBy.txt, or website to scrape information from a website.
+```Enter text to search from WebBy.txt, or website to scrape information from a website.
+```
 **4) View Results:**       
--Displays the uses and side effects of the medicine from the chosen data source.
+```-Displays the uses and side effects of the medicine from the chosen data source.
+```
 ## Technologies Used
 **1) Python:** Main programming language used for building the application.
 **2) BeautifulSoup:** For scraping data from websites.
 **3) Requests:** To handle HTTP requests to fetch web pages.
 ## Project Structure
 ```bash
-Copy
-Edit
 WebBy/
 │
 ├── WebBy.py                 # Main application script for scraping
