@@ -43,10 +43,12 @@ python WebBy.py
 -Enter the name of the medicine you want information on.
 ```
 **3) Choose the Data Source:**     
-```Enter text to search from WebBy.txt, or website to scrape information from a website.
+```
+-Enter text to search from WebBy.txt, or website to scrape information from a website.
 ```
 **4) View Results:**       
-```-Displays the uses and side effects of the medicine from the chosen data source.
+```
+-Displays the uses and side effects of the medicine from the chosen data source.
 ```
 ## Technologies Used
 **1) Python:** Main programming language used for building the application.
