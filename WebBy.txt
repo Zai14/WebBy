@@ -1,0 +1,13 @@
+Paracetamol:Fever, Pain, Headache, Migraine, Toothache, Sore throat: Nausea, Liver damage, Rash, Anemia
+Ibuprofen:Fever, Pain, Inflammation, Menstrual cramps, Toothache: Stomach pain, Heartburn, Ulcers, Dizziness
+Loratadine:Allergy symptoms (hay fever, hives, itching): Headache, Dry mouth, Drowsiness, Fatigue, Nausea
+Omeprazole:Acid reflux, Gastric ulcers, GERD, Indigestion: Nausea, Diarrhea, Headache, Abdominal pain, Constipation
+Amoxicillin:Bacterial infections (ear infections, UTIs, pneumonia): Diarrhea, Nausea, Rash, Vomiting, Allergic reactions
+Aspirin:Pain, Fever, Inflammation, Heart attack prevention: Stomach irritation, Bleeding, Allergic reactions
+Cetirizine:Allergy symptoms (sneezing, runny nose, itching, watery eyes): Drowsiness, Dry mouth, Headache, Fatigue
+Ranitidine:Acid reflux, Gastric ulcers, GERD: Diarrhea, Headache, Dizziness, Constipation, Muscle pain
+Diphenhydramine:Allergy symptoms (sneezing, itching, watery eyes): Drowsiness, Dry mouth, Blurred vision, Urinary retention
+Fexofenadine:Allergy symptoms (hay fever, hives): Headache, Nausea, Drowsiness, Menstrual cramps, Muscle pain
+Losartan:High blood pressure, Heart failure, Diabetic kidney disease: Dizziness, Fatigue, Low blood pressure, Diarrhea, Muscle cramps
+Metformin:Type 2 diabetes: Diarrhea, Nausea, Vomiting, Bloating, Gas
+Atorvastatin:High cholesterol, Heart disease prevention: Muscle pain, Weakness, Liver problems, Allergic reactions, Dizziness
