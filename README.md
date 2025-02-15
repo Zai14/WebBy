@@ -71,4 +71,4 @@ Expand error handling to improve system reliability.
 ## License
 This project is licensed under the MIT License.
 ## Contact
-For more information, please contact Zai14 through GitHub at Zai14[https://github.com/Zai14].
+For more information, please contact Zai14 through GitHub at Zai14.
